@@ -83,8 +83,8 @@ As an international student pursuing opportunities in software engineering, I ai
 I'm always open to discussing new projects, creative ideas, or opportunities to be part of your vision.
 
 - 💼 **LinkedIn**: [Connect with me](https://linkedin.com/in/diwanmalla)
-- 📧 **Email**: diwanmalla@example.com
-- 💬 **Portfolio**: [View my work](https://diwanmalla.com)
+- 📧 **Email**: malladipin@gmail.com
+- 💬 **Portfolio**: [View my work]((https://portfolio-diwan.vercel.app/))
 
 ## 🎯 Quote
 
